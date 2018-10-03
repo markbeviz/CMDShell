@@ -1,0 +1,6 @@
+C:\Users\Beviz Mark\Documents\SharpDevelop Projects\AddCMDShell\AddCMDShell\bin\Debug\AddCMDShell.exe.config
+C:\Users\Beviz Mark\Documents\SharpDevelop Projects\AddCMDShell\AddCMDShell\bin\Debug\AddCMDShell.exe
+C:\Users\Beviz Mark\Documents\SharpDevelop Projects\AddCMDShell\AddCMDShell\bin\Debug\AddCMDShell.pdb
+C:\Users\Beviz Mark\Documents\SharpDevelop Projects\AddCMDShell\AddCMDShell\obj\Debug\AddCMDShell.csprojResolveAssemblyReference.cache
+C:\Users\Beviz Mark\Documents\SharpDevelop Projects\AddCMDShell\AddCMDShell\obj\Debug\AddCMDShell.exe
+C:\Users\Beviz Mark\Documents\SharpDevelop Projects\AddCMDShell\AddCMDShell\obj\Debug\AddCMDShell.pdb
